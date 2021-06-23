@@ -1,5 +1,5 @@
 category: Lua
-requires: bash lua51 lua54-busted lua54-cliargs lua54-dkjson lua54-luassert lua54-mediator lua54-pl lua54-say lua54-system lua54-term lua51
+requires: bash lua51 lua51-cliargs lua51-dkjson lua51-luassert lua51-mediator lua51-pl lua51-say lua51-system lua51-term
 sdesc: "Elegant Lua unit testing"
 ldesc: "An elegant, extensible, testing framework.
 Ships with a large amount of useful asserts,
